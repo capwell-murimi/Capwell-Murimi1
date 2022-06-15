@@ -1,13 +1,10 @@
 ### Hi there👋 
 
 
-My name is Capwell Murimi and I'm an enthusiastic Software Developer
-- 🔭 I’m currently working on a project
+My name is Capwell Murimi and I'm an enthusiastic Software Developer🤓
+- 🔭 I’m currently working on coedlib
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on many Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about FrontEnd Development 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: WhatsApp 
+
