@@ -1,6 +1,5 @@
 ### Hi there👋 
 
-
 My name is Capwell Murimi and I'm an enthusiastic Software Developer🤓
 - 🔭 I’m currently working on coedlib
 - 🌱 I’m currently learning JavaScript 
